@@ -1,43 +1,46 @@
- Tô Màu Cho Bé là ứng dụng vẽ và tô màu vui nhộn dành cho trẻ em từ 3 tuổi trở lên, giúp bé phát triển óc sáng tạo, khả năng nhận biết màu sắc, hình dạng, chữ cái và con số.
+# Chính sách quyền riêng tư — Tô Màu Cho Bé
 
-🎨 NHIỀU MẪU TÔ MÀU PHONG PHÚ
-• Hơn 60 mẫu trong 12 nhóm chủ đề: Ngôi nhà, Con vật quen thuộc (mèo, chó, cá, chim, thỏ, ếch, heo, bò, ốc…), Trái cây (táo, chuối, dưa hấu), Khủng long, Sinh vật biển (bạch tuộc, sao biển, cua), Côn trùng (bọ rùa, ong), Phương tiện (ô tô, máy bay, thuyền, tàu hoả, xe máy, xe buýt, xe cứu hoả), Hình thú vị (ngôi sao, trái tim, hoa, mặt trời, cầu vồng…), Mê cung, Chữ cái (A–T) và Số (0–9).
+Cập nhật: 18/05/2026
 
-🛠️ CÔNG CỤ VẼ ĐA DẠNG
-• Tô màu (chạm vùng để đổ màu — dễ cho bé nhỏ)
-• Bút vẽ tự do với nhiều kích thước
-• Bộ sticker emoji vui nhộn (⭐ ❤️ 🌸 🦋…)
-• Tẩy / Hoàn tác / Xoá hết
-• Magic Fill — tự động tô màu ngẫu nhiên
-• Tô theo mẫu tham khảo — bé có thể xem hình gợi ý đã tô sẵn
+Ứng dụng "Tô Màu Cho Bé" (sau đây gọi là "Ứng dụng") tôn trọng tuyệt
+đối quyền riêng tư của người dùng, đặc biệt là trẻ em.
 
-✏️ TẠO MẪU CỦA RIÊNG BÉ
-Bé có thể vẽ hình bằng nét đen, lưu lại làm mẫu riêng và tô màu sau. Mỗi tác phẩm sẽ được lưu vào "Mẫu của tôi" để chơi lại bất cứ lúc nào.
+## Thu thập dữ liệu
+Ứng dụng KHÔNG thu thập, KHÔNG lưu trữ và KHÔNG truyền đi bất kỳ
+thông tin cá nhân nào của người dùng. Tất cả tác phẩm và mẫu do bé
+tạo ra đều được lưu trữ tại chỗ trên thiết bị.
 
-🌈 BẢNG MÀU PHONG PHÚ
-12 màu sáng thân thiện với trẻ em + ColorPicker tuỳ chỉnh để bé tự chọn bất kỳ màu nào.
+## Truy cập thiết bị
+Ứng dụng chỉ yêu cầu quyền truy cập Thư viện Ảnh KHI bé chọn lưu
+tác phẩm. Không có quyền truy cập nào khác được sử dụng.
 
-🧩 MÊ CUNG TÌM ĐƯỜNG
-3 cấp độ mê cung tự sinh giúp bé rèn luyện tư duy và khả năng quan sát.
+## Quảng cáo & Theo dõi
+Ứng dụng không hiển thị quảng cáo, không tích hợp SDK theo dõi,
+không sử dụng analytics của bên thứ ba.
 
-💾 LƯU & CHIA SẺ
-• Lưu tác phẩm vào ứng dụng Ảnh
-• Chia sẻ qua Messages, Mail, AirDrop
-• Hiệu ứng pháo hoa khi hoàn thành 🎉
+## Liên hệ
+Mọi câu hỏi xin gửi về: phanminhtam002@gmail.com
 
-⚙️ TÍNH NĂNG DÀNH CHO PHỤ HUYNH
-• Giới hạn thời gian chơi (15, 30, 45, 60 phút)
-• Tắt/bật rung phản hồi
-• Chuyển ngôn ngữ Việt/Anh tự do
-• Xoá dữ liệu khi cần
+---
+# Privacy Policy — Color For Kids
 
-🔒 AN TOÀN & RIÊNG TƯ
-• Hoàn toàn miễn phí, không quảng cáo
-• Không thu thập dữ liệu cá nhân
-• Mọi nội dung lưu trên thiết bị
-• Không cần kết nối Internet
+Last updated: May 18, 2026
 
-📱 TƯƠNG THÍCH
-Hoạt động trên cả iPhone và iPad với giao diện thích ứng tự động. Hỗ trợ Apple Pencil trên iPad để bé vẽ mượt mà như trên giấy.
+The "Color For Kids" application respects user privacy, especially
+that of children.
 
-Hãy để bé thoả sức sáng tạo cùng "Tô Màu Cho Bé"!
+## Data collection
+The app does NOT collect, store, or transmit any personal data.
+All artwork and templates created by the child are stored locally
+on the device.
+
+## Permissions
+The app only requests Photo Library access WHEN the child chooses
+to save their work. No other permissions are used.
+
+## Ads & Tracking
+The app shows no ads, integrates no tracking SDKs, and uses no
+third-party analytics.
+
+## Contact
+Questions can be sent to: phanminhtam002@gmail.com
